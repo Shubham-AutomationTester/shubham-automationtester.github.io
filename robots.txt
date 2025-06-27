@@ -3,4 +3,3 @@ Disallow: /login.html
 Disallow: /signup.html
 Disallow: /post1.html
 Disallow: /terms.html
-Allow: /
