@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /about.html
 Disallow: /portfolio.html
-Disallow: /blog.html
-Disallow: /testimonials.html
+
