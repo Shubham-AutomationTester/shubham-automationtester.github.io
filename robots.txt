@@ -1,3 +1,3 @@
-User-agent: 
-Disallow: about.html
-Disallow: contact.html
+User-agent: *
+Disallow: /about.html
+Disallow: /contact.html
